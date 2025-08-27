@@ -95,15 +95,15 @@ Me chamo **Ihago Lamarcks**, tenho 23 anos e sou natural de Aracaju-Sergipe. Atu
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg"
+    srcset="https://raw.githubusercontent.com/Lamarcks/Lamarcks/output/pacman-contribution-graph-dark.svg"
   />
   <source 
     media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"
+    srcset="https://raw.githubusercontent.com/Lamarcks/Lamarcks/output/pacman-contribution-graph.svg"
   />
   <img 
     alt="Pac-Man eating my contributions" 
-    src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/Lamarcks/Lamarcks/output/pacman-contribution-graph.svg"
   />
 </picture>
 
