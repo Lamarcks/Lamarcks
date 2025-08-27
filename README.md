@@ -19,14 +19,6 @@ Me chamo **Ihago Lamarcks**, tenho 23 anos e sou natural de Aracaju-Sergipe. Atu
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="HTML"
     title="HTML" 
     width="40px" 
@@ -40,6 +32,14 @@ Me chamo **Ihago Lamarcks**, tenho 23 anos e sou natural de Aracaju-Sergipe. Atu
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
@@ -72,6 +72,14 @@ Me chamo **Ihago Lamarcks**, tenho 23 anos e sou natural de Aracaju-Sergipe. Atu
 ### Análise & Resultados
 
 <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Lamarcks&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
 
 <img 
       align="left" 
@@ -81,3 +89,21 @@ Me chamo **Ihago Lamarcks**, tenho 23 anos e sou natural de Aracaju-Sergipe. Atu
   />
 
 </p>
+<br/>
+
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg"
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"
+  />
+  <img 
+    alt="Pac-Man eating my contributions" 
+    src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
