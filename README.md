@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`** **`Analista de Dados`**
 
-Me chamo **Ihago Lamarcks**, tenho 23 anos e sou natural de Aracaju-Sergipe. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguera. Aqui no GitHub compartilho meus projetos, **repositórios e estudos** que refletem minha jornada no mundo da **programação e analise de dados**.
+Olá sou **Ihago Lamarcks** estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguera, tenho 23 anos e a tecnologia me facina. Aqui no GitHub compartilho meus projetos, **repositórios e estudos** que refletem minha jornada no mundo da **programação e analise de dados**.
 
 ---
 
