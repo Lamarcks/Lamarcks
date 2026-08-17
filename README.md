@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Ihago Lamarcks
+# 🥷 Ihago Lamarcks
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Python | Data Science | Machine Learning | IA Generativa | Oracle Cloud**
 
