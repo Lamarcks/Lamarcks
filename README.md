@@ -62,9 +62,9 @@ Atualmente busco transformar esse conhecimento em soluções práticas e ampliar
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Lamarcks&show_icons=true&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamarcks&layout=compact&theme=tokyonight&hide_border=true)
 
-<br>
+</div>
 
 ---
 
