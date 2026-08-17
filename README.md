@@ -58,17 +58,23 @@ Atualmente busco transformar esse conhecimento em soluções práticas e ampliar
 
 ---
 
-# 📊 GitHub em números
+## 📈 Minha atividade no GitHub
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lamarcks&layout=compact&theme=tokyonight&hide_border=true)
+[![Ihago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lamarcks&bg_color=050a12&color=35d4ff&line=1e90ff&point=ffffff&area=true&hide_border=true)](https://github.com/Lamarcks)
 
 </div>
 
 ---
 
-# 🤝 Vamos nos conectar?
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=35D4FF&center=true&vCenter=true&width=700&lines=Python+%7C+Data+Science+%7C+Machine+Learning;IA+Generativa+%7C+RAG+%7C+LangChain+%7C+LangGraph;Oracle+Cloud+%7C+Automa%C3%A7%C3%A3o+%7C+APIs;Construindo+um+projeto+de+cada+vez+🚀)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 Estou construindo meu portfólio continuamente e buscando oportunidades para aplicar meus conhecimentos em **desenvolvimento, dados, Inteligência Artificial, automação e Cloud Computing**.
 
