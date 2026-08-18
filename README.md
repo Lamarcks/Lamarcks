@@ -13,9 +13,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com formação complementar pelo programa **Oracle Next Education (ONE)** e especialização prática em **Python, Data Science, Machine Learning, Inteligência Artificial e Oracle Cloud Infrastructure**.
+Estudante de **Análise e Desenvolvimento de Sistemas**, com formação complementar pelo programa **Oracle Next Education (ONE)** e especialização prática em **Python, Data Science, Machine Learning, Inteligência Artificial e Oracle Cloud Infrastructure**.
 
 Minha jornada começou pelos fundamentos de **lógica de programação e desenvolvimento web** e evoluiu para projetos envolvendo **análise e tratamento de dados, ETL, modelos preditivos, IA Generativa, RAG, agentes de IA, automação e aplicações em nuvem**.
 
