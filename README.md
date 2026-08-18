@@ -20,6 +20,11 @@ Minha jornada começou pelos fundamentos de **lógica de programação e desenvo
 Atualmente busco transformar esse conhecimento em soluções práticas e ampliar minha experiência profissional através de **projetos de tecnologia e trabalhos freelance**.
 
 ---
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=35D4FF&center=true&vCenter=true&width=700&lines=Python+%7C+Data+Science+%7C+Machine+Learning;IA+Generativa+%7C+RAG+%7C+LangChain+%7C+LangGraph;Oracle+Cloud+%7C+Automa%C3%A7%C3%A3o+%7C+APIs;Construindo+um+projeto+de+cada+vez+🚀)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
@@ -59,12 +64,6 @@ Atualmente busco transformar esse conhecimento em soluções práticas e ampliar
   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/APIs-009688?style=for-the-badge"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=35D4FF&center=true&vCenter=true&width=700&lines=Python+%7C+Data+Science+%7C+Machine+Learning;IA+Generativa+%7C+RAG+%7C+LangChain+%7C+LangGraph;Oracle+Cloud+%7C+Automa%C3%A7%C3%A3o+%7C+APIs;Construindo+um+projeto+de+cada+vez+🚀)](https://git.io/typing-svg)
 
 </div>
 
