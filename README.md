@@ -74,11 +74,5 @@ Atualmente busco transformar esse conhecimento em soluções práticas e ampliar
 
 ---
 
-Estou construindo meu portfólio continuamente e buscando oportunidades para aplicar meus conhecimentos em **desenvolvimento, dados, Inteligência Artificial, automação e Cloud Computing**.
-
-<div align="center">
-
-### 📫 Entre em contato
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ihago%20Lamarcks-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ihago-lamarcks1/)
 
