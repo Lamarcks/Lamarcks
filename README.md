@@ -21,6 +21,14 @@ Atualmente busco transformar esse conhecimento em soluções práticas e ampliar
 
 ---
 
+<div align="center">
+
+[![Ihago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lamarcks&bg_color=050a12&color=35d4ff&line=1e90ff&point=ffffff&area=true&hide_border=true)](https://github.com/Lamarcks)
+
+</div>
+
+---
+
 # 🛠️ Tecnologias e Ferramentas
 <div align="center">
 
@@ -53,18 +61,6 @@ Atualmente busco transformar esse conhecimento em soluções práticas e ampliar
   <img src="https://img.shields.io/badge/APIs-009688?style=for-the-badge"/>
 
 </div>
-
----
-
-## 📈 Minha atividade no GitHub
-
-<div align="center">
-
-[![Ihago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lamarcks&bg_color=050a12&color=35d4ff&line=1e90ff&point=ffffff&area=true&hide_border=true)](https://github.com/Lamarcks)
-
-</div>
-
----
 
 <div align="center">
 
